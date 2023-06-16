@@ -1,0 +1,65 @@
+#testtext {
+    color:red
+}
+
+#navbar {
+    position relative 
+}
+
+nav {
+    list-style-type: none;
+  }
+  
+  .navelement {
+    float: right;
+    font-size:20px;
+  }
+  
+  li a {
+    display: block;
+    padding: 8px;
+    background-color: #ffffff;
+    color:#300a5c
+  }
+
+  .mainpageHook{
+    margin-top:10%;    
+
+}
+  .leftText{
+    font-size:50px;
+    margin:20px;
+    font-family: Rubik ;
+  }
+
+  .centerbar {
+    background-color:  #967db3;
+    margin-top: 350px;
+    height:250;
+  }
+
+  .centerbarelem  {
+    color:white;
+    padding-top:50px;
+    padding-bottom:50px;
+    margin-left: 12%;
+    font-size:50px;
+  }
+
+
+  .bottomPageHeader {
+    text-align:center;
+    margin-top:75px;
+    font-size:50px;
+  }
+
+
+
+
+  .bottomText{
+    text-align:center;
+    font-size:25px;
+    width:75%;
+    padding-left: 12%;
+
+  }
